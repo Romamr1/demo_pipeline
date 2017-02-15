@@ -1,0 +1,129 @@
+#header {
+	height: 40px;	
+}
+
+.white {
+	background-color: #EEF6F0;
+	border-radius: 5px;
+	color: #45946F;
+	border: 2px solid #45946F;
+	margin: 0 5px;
+}
+
+.green {
+	background-color: #40974E;
+	border-radius: 5px;
+	color: #D0ECDF;
+	border: 3px solid #2F7539;
+	margin: 0 5px;
+
+}
+
+.filter{
+	margin-left: 40px;
+}
+
+.vr {	
+	text-align: center;
+}
+
+.right-align {
+	text-align: right;
+	color: #E6EFE9;
+}
+
+body {
+	overflow: scroll;
+	width: 1500px;
+}
+
+.parent-table {
+	margin-top: 5px;
+}
+
+a {
+	margin: 0 10px;
+}
+
+.cols-style {
+	border-radius: 5px;
+	background: linear-gradient(to top, #639940 20%, #017447 50%, #639940 80%);
+
+}
+
+.dateline{
+	font-weight: bold;
+	font-size: small;
+	background: linear-gradient(to top, #639940 20%, #017447 50%, #639940 80%);
+	border-radius: 5px;
+	color:#fff;
+}
+
+.drop-down {
+	font-weight: bold;
+	font-size: small;
+	color:#fff;
+	height: 20px;
+	width: auto;
+	margin:1px 50px;	 
+	border-radius: 10px;
+	padding: 0 10px;
+	background: linear-gradient(to top, #639940 20%, #017447 50%, #639940 80%);
+}
+
+
+.rel {
+	width: 280px;	
+	float: left;	
+}
+
+.defs, .demoPreps, .demos, .validations {
+	overflow: scroll;
+	width: 300px;
+	height: 700px;	
+	float: left;
+	font-size: small;
+	font-family: verdana;
+}
+
+.def {
+	height: 30px;
+	border: 2px solid #fff;
+	padding: 3px;
+	background-color: #EAD9EA;
+}
+
+.validation {
+	height: 30px;
+	border: 2px solid #fff;
+	padding: 3px;
+	background-color: #C2CD23;
+}
+
+.demoPrep {
+	height: 30px;
+	border: 2px solid #fff;
+	padding: 3px;
+	background-color: #B9C7D4;
+}
+
+.demo {
+	height: 30px;
+	border: 2px solid #fff;
+	padding: 3px;
+	background-color: #8FD2C5;
+}
+
+.thad {
+	font-size: small;
+	font-weight: bold;	
+}
+
+.pipeline {
+	color: #AFD384;
+
+}
+
+.manager {
+	color: #78B16E;
+}
